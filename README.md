@@ -63,8 +63,8 @@
         • Replies to Doubt asked in the forum, threads subscribed to.
 
     ❖ Common Features 
-        => Search Resources by Location:
-            User can search/view events based on location like from current location, by area, by state, by country.
+        => Search Resources:
+            User can search/find resouces based on category- semester/course/chapter.
 
         => Follow/Unfollow a thread:
             User can follow or unfollow to a particular topic in discussion forum. 
