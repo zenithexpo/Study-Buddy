@@ -86,6 +86,15 @@
     ❖ Doubt Discussion forums & Threads
     ❖ You can search a particular user
     ❖ Add New sections and sub sections
+ ### ER Diagram <a name = "ER"></a>
+
+<p align="center">
+  <a href="" rel="noopener">
+    <img src="https://raw.githubusercontent.com/zenithexpo/Study-Buddy/master/ER%20diagram.jpeg" alt="ER diagram">
+ </a>
+</p>
+<p align="center">
+
 ## Team - DKode
 ## ✍️ Authors <a name = "authors"></a>
 - [Diksha Verma](https://github.com/zenithexpo)
