@@ -16,6 +16,13 @@
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
 </div>
+#  Why this idea ?
+    - When students get stuck at a particular topic or subject, they surf and research online to find the right content. There are so much data and resouces available openly online that it becomes confusing and time consuming to select the right one.(For Eg. Among so many videos which Youtube Lecture is easy and best for the topic)
+    
+#  How creative is your solution ?
+    - Course-wise, semester-wise, chapter-wise seggration of resources
+    - We are bridging the gap of finding available top rated, free and best quality content resouces student look for.
+    - Building and promoting students towards community and fun way of learning and sharing.
 
 ---
 ## ⛏️ Built With <a name = "tech_stack"></a>
