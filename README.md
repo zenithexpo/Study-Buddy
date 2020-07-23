@@ -75,6 +75,8 @@
     ❖ Doubt Discussion forums & Threads
     ❖ You can search a particular user
     ❖ Add New sections and sub sections
-## Team
-1. Diksha Verma
-2. Komal Swain
+## Team - DKode
+## ✍️ Authors <a name = "authors"></a>
+- [Diksha Verma](https://github.com/zenithexpo)
+- [Komal Swain](https://github.com/SwainKomal)
+
