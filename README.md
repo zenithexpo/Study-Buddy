@@ -18,7 +18,10 @@
 </div>
 
 #  Why this idea ?
-    - When students get stuck at a particular topic or subject, they surf and research online to find the right content. There are so much data and resouces available openly online that it becomes confusing and time consuming to select the right one.(For Eg. Among so many videos which Youtube Lecture is easy and best for the topic)
+    - When students get stuck at a particular topic or subject, they surf and research online to find the right content. 
+    There are so much data and resouces available openly online that it becomes confusing and time consuming to select 
+    the right one.(For Eg. Among so many videos which Youtube Lecture is easy and best for the topic, Any Notes available)
+    - Looking for seniors or classmates notes, last minute viva revision.
     
 #  How creative is our solution ?
     - Course-wise, semester-wise, chapter-wise seggration of resources
