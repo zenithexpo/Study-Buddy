@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/zenithexpo/Study-Buddy/master/StudyBird.png" alt="Project logo">
  </a>
 </p>
-<p align="center">  One-stop platform for all the study resources at one place. A collection and links to all the top-rated open sourced study material, YouTube lectures, personal and college wise notes and open doubt forum.
+<p align="center">  One-stop platform for all the study resources at one place. A collection and links to all the top-rated open sourced study material, YouTube lectures, personal and college wise notes and open doubt forum. Encouraging community learning.
     <br> 
 </p>
 <h3 align="center">Theme - Education</h3>
